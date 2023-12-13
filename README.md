@@ -9,9 +9,9 @@
 - 💻 Desenvolvedor Júnior trabalhando com meu amigo, 🐍Python!<br>
 - 📚 Estudo programação na faculdade, faço Análise e Desenvolvimento de Sistemas.<br>
 - ❤️ Eu amo Jesus, matemática, programar, línguas, poesia, ler livros, minha família e amigos!<br>
-
-
-
+##
+![Enzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzzodn&icons=true&theme=one_dark_pro)
+<img align="center" alt="Enzzo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--
 **enzzodn/enzzodn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
