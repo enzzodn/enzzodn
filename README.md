@@ -3,12 +3,12 @@
 ## (EN/US)
 - 💻 Junior Developer working with my biggest friend, 🐍Python!<br>
 - 📚 Studying programming in College, doing Analysis and Systems Development.<br>
-- ❤️ I love Jesus, math, coding, languages, poetry, read books, my family and friends!<br>
+- ❤️ I love math, coding, languages, poetry, read books, my family and friends!<br>
 
 ## (PT/BR)
 - 💻 Desenvolvedor Júnior trabalhando com meu amigo, 🐍Python!<br>
 - 📚 Estudo programação na faculdade, faço Análise e Desenvolvimento de Sistemas.<br>
-- ❤️ Eu amo Jesus, matemática, programar, línguas, poesia, ler livros, minha família e amigos!<br>
+- ❤️ Eu amo matemática, programar, línguas, poesia, ler livros, minha família e amigos!<br>
 ##
 [![Enzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzzodn&theme=one_dark_pro)](https://github.com/enzzodn/github-readme-stats)
 <img align="center" alt="Enzzo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
