@@ -2,15 +2,17 @@
 
 ## (EN/US)
 - 💻 Junior Developer working with my biggest friend, 🐍Python!<br>
-- 👨‍💻 Graduating in college, doing Analysis and Systems Development.<br>
+- 👨🏽‍💻 Graduating in college, doing Analysis and Systems Development.<br>
 - ❤️ I'm interested in math, coding, languages, poetry, read books, my family and friends!<br>
 - 📚 English A2 - B1
+- </> Internship in RPA Systems Development
 
 ## (PT/BR)
 - 💻 Desenvolvedor Júnior trabalhando com meu amigo, 🐍Python!<br>
-- 👨‍💻 Graduando na faculdade, Análise e Desenvolvimento de Sistemas.<br>
+- 👨🏽‍💻 Graduando na faculdade, Análise e Desenvolvimento de Sistemas.<br>
 - ❤️ Sou interessado em matemática, programação, línguas estrangeiras, poesia, ler livros, minha família e amigos!<br>
 - 📚 Inglês A2 - B1
+- </> Estágio em Desenvolvimento de Sistemas RPA
 ##
 [![Enzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzzodn&theme=one_dark_pro)](https://github.com/enzzodn/github-readme-stats)
 <img align="center" alt="Enzzo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
