@@ -2,20 +2,24 @@
 
 ## (EN/US)
 - 💻 Junior Developer working with my biggest friend, 🐍Python!<br>
-- 👨🏽‍💻 Graduating in college, doing Analysis and Systems Development.<br>
-- ❤️ I'm interested in math, coding, languages, poetry, read books, my family and friends!<br>
+- 👨🏽‍💻 Graduated in college, doing Analysis and Systems Development.<br>
+- ❤️ I'm interested in math, coding, systems architecture and engineering, languages, poetry, read books, my family and friends!<br>
 - 📚 English A2 - B1
-- </> Trainee in RPA Systems Development
+- </> Systems Analyst / QA Automator
 
 ## (PT/BR)
 - 💻 Desenvolvedor Júnior trabalhando com meu amigo, 🐍Python!<br>
-- 👨🏽‍💻 Graduando na faculdade, Análise e Desenvolvimento de Sistemas.<br>
-- ❤️ Sou interessado em matemática, programação, línguas estrangeiras, poesia, ler livros, minha família e amigos!<br>
+- 👨🏽‍💻 Graduado na faculdade, Análise e Desenvolvimento de Sistemas.<br>
+- ❤️ Sou interessado em matemática, programação, Arquitetura e engenharia de sistemas, línguas estrangeiras, poesia, ler livros, minha família e amigos!<br>
 - 📚 Inglês A2 - B1
-- </> Estagiário em Desenvolvimento de Sistemas RPA
+- </> Analista de Sistemas / QA Automatizador
 ##
-[![Enzzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzzodn&theme=one_dark_pro)](https://github.com/enzzodn/github-readme-stats)
+<div>
 <img align="center" alt="Enzzo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Enzzo-Pandas" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+<img align="center" alt="Enzzo-Playwright" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg">
+<img align="center" alt="Enzzo-Selenium" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+</div>
 
 ## Contatos:
 
