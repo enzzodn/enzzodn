@@ -4,15 +4,15 @@
 - 💻 Junior Developer working with my biggest friend, 🐍Python!<br>
 - 👨🏽‍💻 Graduated in college, doing Analysis and Systems Development.<br>
 - ❤️ I'm interested in math, coding, systems architecture and engineering, languages, poetry, read books, my family and friends!<br>
-- 📚 English A2 - B1
-- </> Systems Analyst / QA Automator
+- 📚 English B2
+- </> Systems Analyst / QA Automator / Python Developer
 
 ## (PT/BR)
 - 💻 Desenvolvedor Júnior trabalhando com meu amigo, 🐍Python!<br>
 - 👨🏽‍💻 Graduado na faculdade, Análise e Desenvolvimento de Sistemas.<br>
 - ❤️ Sou interessado em matemática, programação, Arquitetura e engenharia de sistemas, línguas estrangeiras, poesia, ler livros, minha família e amigos!<br>
-- 📚 Inglês A2 - B1
-- </> Analista de Sistemas / QA Automatizador
+- 📚 Inglês B2
+- </> Analista de Sistemas / QA Automatizador / Desenvolvedor Python
 ##
 <div>
 <img align="center" alt="Enzzo-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
